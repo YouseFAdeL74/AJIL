@@ -192,7 +192,7 @@ sans-serif;
   width: 100%;
   height: 7%;
   z-index: -1;
-  box-shadow: 0 -40px 30px #fafbff;
+  box-shadow: 0 -20px 30px #fafbff;
 }
 
 .landing .row {
